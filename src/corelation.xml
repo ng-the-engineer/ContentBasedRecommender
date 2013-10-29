@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<mappings>
+	<mapping sourceServiceType="movie" targetServiceType="movie">
+		<corelation sourceAttribute="category"    targetAttribute="category"     weight="0.25" />
+		<corelation sourceAttribute="name"        targetAttribute="name"         weight="0.10" />
+		<corelation sourceAttribute="description" targetAttribute="description"  weight="0.25" />
+		<corelation sourceAttribute="actor"       targetAttribute="actor"        weight="0.05" />
+		<corelation sourceAttribute="director"    targetAttribute="director"     weight="0.05" />
+		<corelation sourceAttribute="region"      targetAttribute="region"       weight="0.10" />
+		<corelation sourceAttribute="showdate"    targetAttribute="showdate"     weight="0.05" />
+		<corelation sourceAttribute="dialogue"    targetAttribute="dialogue"     weight="0.05" />
+		<corelation sourceAttribute="character"   targetAttribute="character"    weight="0.10" />
+	</mapping>
+	<mapping sourceServiceType="movie" targetServiceType="music">
+		<corelation sourceAttribute="category"    targetAttribute="genre"     weight="0.1" />
+		<corelation sourceAttribute="name"        targetAttribute="name"        weight="0.5" />
+		<corelation sourceAttribute="description" targetAttribute="description"  weight="0.3" />
+		<corelation sourceAttribute="actor"       targetAttribute="singer"       weight="0.1" />
+	</mapping>
+	
+	<mapping sourceServiceType="music" targetServiceType="music">
+		<corelation sourceAttribute="genre"       targetAttribute="genre"     weight="0.4" />
+		<corelation sourceAttribute="name"        targetAttribute="name"        weight="0.1" />
+		<corelation sourceAttribute="description" targetAttribute="description"  weight="0.2" />
+		<corelation sourceAttribute="singer"       targetAttribute="singer"       weight="0.3" />
+	</mapping>
+		
+	<mapping sourceServiceType="books" targetServiceType="books">		
+		<corelation sourceAttribute="name"        targetAttribute="name"        weight="0.5" />
+		<corelation sourceAttribute="description" targetAttribute="description"  weight="0.5" />		
+	</mapping>
+	<mapping sourceServiceType="movie" targetServiceType="books">		
+		<corelation sourceAttribute="name"        targetAttribute="name"        weight="0.2" />
+		<corelation sourceAttribute="actor"       targetAttribute="author"       weight="0.4" />
+		<corelation sourceAttribute="description" targetAttribute="description"  weight="0.4" />		
+	</mapping>		
+</mappings>
