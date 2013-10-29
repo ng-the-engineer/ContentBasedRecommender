@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="books" name="叶问·咏春">
+		<attributes>
+			<attribute name="name" value="叶问·咏春;宗师长子叶准独家披露，探寻风靡全球国术之堂奥"  />
+			<attribute name="category" value="自传"  />
+			<attribute name="author" value="叶准;卢德安;彭耀钧"  />
+			<attribute name="region" value="中国"  />
+			<attribute name="publishdate" value="2011"  />
+			<attribute name="publisher" value="国际文化出版公司"  />
+			<attribute name="language" value="中文"  />			
+			<attribute name="description" value="由于一代宗师叶问半生的努力，咏春功夫传遍世界，学者逾百万。本书是叶问宗师长子叶准师傅偕入室弟子卢德安、彭耀钧为深入探讨咏春而写的。本书首谈叶问宗师，之后便细谈作者们在学习咏春和教授咏春的心得。叶问宗师的生平行事以及他对咏春的体会和教学，都可在叶准师徒的心得中窥见，足见叶问咏春的薪火相传，以及叶问宗师的影响力。"  />
+		</attributes>		
+	</item>
+</items>

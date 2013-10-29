@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="movie" name="憨豆先生">
+		<attributes>
+			<attribute name="name" value="憨豆先生;豆子先生;豆豆先生;Mr. Bean"  />
+			<attribute name="category" value="喜剧;家庭"  />
+			<attribute name="director" value="John Birkin;保罗韦兰;Paul Weiland;约翰·霍华德·戴维斯;John Howard Davies"  />
+			<attribute name="actor" value="罗温·阿特金森;罗温·艾金森;Rowan Atkinson;Matilda Ziegler;Robin Driscoll;Matthew Ashforde;Roger Sloman;Susie McKenna"  />
+			<attribute name="region" value="英国"  />
+			<attribute name="showdate" value="1990年01月01日"  />
+			<attribute name="dialogue" value="英语"  />
+			<attribute name="character" value="豆豆"  />
+			<attribute name="description" value="《憨豆》就是英国BBC的招牌电视喜剧的剧名，也是该剧的主角名字。英国喜剧泰斗罗恩·艾金森（Rowan Atkinson）饰演憨豆先生、同时也是该剧编剧之一。大家可千万别小看这颗“豆豆”，他在英国可是号称有1850万观众，在其它语系地区也是赫赫有名、所向披靡。他的幽默内敛、充满平常惊奇和对生活情趣的触觉，已冲破语言障碍，有望成为卓别林之后的幽默大师。他创造了一种英国式的无厘头。一般人的喜剧都要笑中有泪，或笑中有针贬社会时事，《Mr.Bean》的笑中只有笑，没有政治，也没有批评社会，但一点不令人觉得单纯搞笑。"  />
+		</attributes>		
+	</item>
+</items>

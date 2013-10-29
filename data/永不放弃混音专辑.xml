@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="music" name="永不放弃混音专辑">
+		<attributes>
+			<attribute name="name" value="永不放弃混音专辑"  />
+			<attribute name="genre" value="欧美流行"  />
+			<attribute name="producer" value="Justin Bieber - 贾斯汀•"  />
+			<attribute name="singer" value="Justin Bieber;贾斯汀"  />
+			<attribute name="region" value="美国"  />
+			<attribute name="releasedate" value="2011"  />
+			<attribute name="language" value="英语"  />			
+			<attribute name="description" value="他的世界 永不放弃 自传电影「Never Say Never」唯一指定混音专辑。全美音乐奖、MTV、青少年选择奖大赢家，53届格莱美两项大奖提名，全英音乐奖国际突破艺人肯定，全球最抢手的17岁男孩，YouTube 10亿观众最爱偶像。以3025万美金登上全美首映周票房亚军3D自传电影「Never Say Never」唯一指定专辑空降告示牌冠军宝座。收录畅销单曲独家混音版，亚瑟小子、麦莉、肯伊威斯特、克里斯小子重量级跨刀，贾登史密斯合唱电影主题曲Never Say Never及黛安华伦操刀全新单曲Born To Be Somebody"  />
+			<attribute name="songs" value="Never Say Never永不放弃 Featuring Jaden Smith （电影巨星威尔史密斯之子贾登史密斯携手合作）;That Should Be Me那个人该是我 Featuring Rascal Flatts（格莱美乡村天团雷可福磊斯乐团跨刀演出）;Somebody To Love我爱的人 Featuring Usher （恩师亚瑟小子合作畅销曲）;Up一飞冲天 Featuring Chris Brown （克里斯•布朗助阵合唱）;Overboard坠入爱河 Featuring Miley（2010麦迪逊花园广场演唱会与麦莉合唱曲）;Runaway Love背叛爱情 Featuring Raekwon（肯伊威斯特混音/嘻哈第一帮Wu-Tang Clan成员雷克璜献艺助饶）;Born To Be Somebody生来不凡（创作天后黛安华伦亲手打造动人新曲）"  />
+		</attributes>		
+	</item>
+</items>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="movie" name="功夫熊猫">
+		<attributes>
+			<attribute name="name" value="功夫熊猫;Kung Fu Panda"  />
+			<attribute name="category" value="动画;动作;喜剧;家庭"  />
+			<attribute name="director" value="Mark Osborne;John Stevenson"  />
+			<attribute name="actor" value="杰克·布莱克;Jack Black;达斯汀·霍夫曼;Dustin Hoffman;安吉丽娜·朱莉;Angelina Jolie;伊恩·麦克什;Ian McShane;成龙;Jackie Chan;塞斯·罗根;Seth Rogen"  />
+			<attribute name="region" value="美国"  />
+			<attribute name="showdate" value="2008年6月20日"  />
+			<attribute name="dialogue" value="英语"  />
+			<attribute name="character" value="熊猫阿波"  />
+			<attribute name="description" value="熊猫阿波（杰克·布莱克）是和平谷里公认的最懒的动物。时逢强敌入侵和平谷，谷中所有动物合议举办一次武林大会选出一位武林高手带领大家抗击外敌，保卫家园。当阿波无意中闯入了比武大会的现场的时候，在场的高手们都震惊地发现：这个看起来一无是处的熊猫居然就是即将拯救整个和平谷的命定之“熊”！达斯汀·霍夫曼将为熊猫阿波的师父——一位生性固执、循规蹈矩的功夫大师献声。这位大师不得不头痛地面对阿波这个不长进的学生，并把他训练成一名功夫高手。阿波的身边还有猴子大师（成龙）——一位武艺高强、身手敏捷的武士，他的任务就是时时提醒阿波的一无是处。而阿波的另一位师傅毒蛇大师（刘玉玲）的功夫更是玄妙：不仅能够不断变换性别，还能够瞬间发挥极大的威力。究竟阿波能否在师傅们的指导下成为武林高手打败强敌呢？和平谷的未来还是个未知数……"  />
+		</attributes>		
+	</item>
+</items>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="movie" name="机密邂逅">
+		<attributes>
+			<attribute name="name" value="机密邂逅;游客;致命伴旅;致命伴侣;色遇;The Tourist"  />
+			<attribute name="category" value="动作 剧情 爱情 惊怵"  />
+			<attribute name="director" value="弗洛里安·汉克尔·唐纳斯马克"  />
+			<attribute name="actor" value="约翰尼·德普;安吉丽娜·朱莉;保罗·贝塔尼;提摩西·道尔顿;史蒂文·伯克夫;卢夫斯·塞维尔"  />
+			<attribute name="region" value="美国;法国"  />
+			<attribute name="showdate" value="2010年"  />
+			<attribute name="dialogue" value="西班牙语"  />
+			<attribute name="character" value="亚历山大·皮尔斯;伊莉斯"  />
+			<attribute name="description" value="谁是致命伴侣？——台前秀场vs幕后操纵 主要演员：约翰尼·德普 饰 亚历山大·皮尔斯；安吉丽娜·朱莉 饰 伊莉斯 　明线：一路被警察监视的美女伊丽斯，收到神秘指示奔往威尼斯与消失了近两年的前情人亚历山大·皮尔斯会面，皮尔斯曾为俄罗斯黑帮老大肖恩的理财顾问，本来颇得肖恩信赖，却偷偷卷走了肖恩23亿英镑的黑钱逃之夭夭，受到国际刑警和黑帮的双面悬赏。"  />			
+		</attributes>		
+	</item>
+</items>

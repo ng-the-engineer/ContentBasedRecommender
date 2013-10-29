@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="books" name="中国功夫">
+		<attributes>
+			<attribute name="name" value="中国功夫"  />
+			<attribute name="category" value="体育;运动>"  />
+			<attribute name="author" value="王广西"  />
+			<attribute name="region" value="中国"  />
+			<attribute name="publishdate" value="2009"  />
+			<attribute name="publisher" value="五洲传播出版社"  />
+			<attribute name="language" value="中文"  />			
+			<attribute name="description" value="中国武术是一种特殊的文化形态，它以攻防搏击为表现形式，以丰富的套路、招式、功法为具体内容，在激烈的身体对抗中体现出中华民族敢于胜利并善于胜利的性格特征。中国武术是千百年来民族智慧的结晶，是民族传统文化在武技一道的体现，也是民族心理个性在健身自卫领域的合理反映。中国武术的哲学核心是儒家的中和养气之说，同时又融汇了道家的守静致柔、释家的禅定参悟等诸多理论，呈现出三教合一的文化风貌，深蕴着天人合一的东方韵趣，从而构成了一个博大精深的武学体系，成为世界上独一无二的“武文化”。中国武术不仅仅是搏击术，更不是单纯的拳脚运动，也不是力气与技法的简单结合，它饱含着哲理，深蕴着先哲们对生命和宇宙的参悟，以一种近乎完美的运动形式诠释着某种古老的哲学思想，追求那种完美而和谐的人生境界。"  />
+		</attributes>		
+	</item>
+</items>

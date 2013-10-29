@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="movie" name="地心历险记2">
+		<attributes>
+			<attribute name="name" value="地心历险记2;Journey to the Center of the Earth"  />
+			<attribute name="category" value="动作;冒险;剧情;科幻"  />
+			<attribute name="director" value="斯科特"  />
+			<attribute name="actor" value="维克多莉娅·普拉特;彼得·方达;麦克·道帕德"  />
+			<attribute name="region" value="美国;加拿大"  />
+			<attribute name="showdate" value="2008年1月27日"  />
+			<attribute name="dialogue" value="英语;冰岛语"  />
+			<attribute name="character" value="肖恩"  />
+			<attribute name="description" value="《地心历险记2》故事取材自凡尔纳的另一部小说《神秘岛》，讲述肖恩的爷爷神秘失踪，肖恩被迫和妈妈的男友一起前往一座小岛去寻找他。"  />
+		</attributes>		
+	</item>
+</items>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="music" name="惠特妮•休斯顿 跨世纪精选 终极典藏">
+		<attributes>
+			<attribute name="name" value="惠特妮•休斯顿 跨世纪精选 终极典藏"  />
+			<attribute name="genre" value="欧美流行"  />
+			<attribute name="producer" value="星外星唱片"  />
+			<attribute name="singer" value="惠特妮•休斯顿"  />
+			<attribute name="region" value="美国"  />
+			<attribute name="releasedate" value="2012"  />
+			<attribute name="language" value="英语"  />			
+			<attribute name="description" value="I Will Always Love You、Heartbreak Hotel、Count On Me等35首排行榜金曲与美声天后德博拉·考克斯合唱《Same Script, Different Cast》与拉丁情歌王子艾瑞克深情对唱《Could I Have This Kiss Forever》与英伦流行天王乔治·迈克合唱《If I Told You That》耳熟能详美妙情歌收录到尽"  />
+			<attribute name="songs" value="Saving All My Love For You;Greatest Love Of All;One Moment In Time"  />
+		</attributes>		
+	</item>
+</items>

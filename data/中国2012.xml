@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="books" name="中国2012">
+		<attributes>
+			<attribute name="name" value="中国2012;寻找真实的成长--中国最具影响力智库年度建言书！吴敬琏、胡德平、郭树清、秦晖、陈志武……透视十八大换届选举之年经济周期与政治周期，根治中国发展结症！"  />
+			<attribute name="category" value="经济"  />
+			<attribute name="author" value="吴敬琏"  />
+			<attribute name="region" value="中国"  />
+			<attribute name="publishdate" value="2012"  />
+			<attribute name="publisher" value="江苏文艺出版社"  />
+			<attribute name="language" value="中文"  />			
+			<attribute name="description" value="本书围绕“2012中国经济周期与政治周期”这一主题，为读者厘清国家和社会未来发展的走向。全书分为五大主要内容：反思中国模式；当前焦点问题（债务危机、金融改革、中小企业成长等）；寻找改革途径；预测2012最重要的问题。这些内容全部由当下最著名的经济学家、媒体人写专文论述。作者团队包括吴敬琏、郭树清、陈志武、胡祖六、任建涛、谢国忠等著"  />
+		</attributes>		
+	</item>
+</items>

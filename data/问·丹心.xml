@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="books" name="问·丹心">
+		<attributes>
+			<attribute name="name" value="问·丹心"  />
+			<attribute name="category" value="自传"  />
+			<attribute name="author" value="甄子丹"  />
+			<attribute name="region" value="中国"  />
+			<attribute name="publishdate" value="2011"  />
+			<attribute name="publisher" value="江苏文艺出版社"  />
+			<attribute name="language" value="中文"  />			
+			<attribute name="description" value="大家眼中的他是一个“打星”！但谁料他是拥有皇家8级弹奏水准的钢琴师？！大家眼中的他是一个“硬汉”！但谁知道他笔下的文字确实如此“柔情”？！甄子丹首次真实吐露漂泊童年的苦乐，前辈情感（袁和平、肥肥）、朋友之交（周星驰、黄百鸣、李连杰、赵薇、陈可辛）、私人感情（太太任诗诗）……从龙套到巨星的蜕变过程，他耐住了寂寞，往复进退。靠什么坚持继续前行？叶问的儒雅，沉稳的男人形象让他爆发，红透，现实中他是怎样的丈夫，父亲？此书更是一部励志书，一部爱情保鲜书，以及一部奋斗过程中的处世哲学书。让你爱生活，爱家庭的，成为生活的“武者”。"  />
+		</attributes>		
+	</item>
+</items>

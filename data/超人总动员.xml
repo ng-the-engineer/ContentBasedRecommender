@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="movie" name="超人总动员">
+		<attributes>
+			<attribute name="name" value="超人总动员;超人特工队;The Incredibles"  />
+			<attribute name="category" value="动画;动作;冒险;喜剧;家庭"  />
+			<attribute name="director" value="布拉德·伯德"  />
+			<attribute name="actor" value="克雷格·内尔逊;Craig T. Nelson;霍利·亨特;Holly Hunter;塞缪尔·杰克逊;Samuel L. Jackson;杰森·李;Jason Lee Dominique Louis;Teddy Newton"  />
+			<attribute name="region" value="美国"  />
+			<attribute name="showdate" value="2004年11月5日"  />
+			<attribute name="dialogue" value="英语;西班牙语;法语"  />
+			<attribute name="character" value="超人;鲍勃"  />
+			<attribute name="description" value="鲍勃曾经是这个世界上最伟大的超人特工，一提起他的大号不可思议先生，当年简直无人不晓。告别了惩恶扬善的生活15年后，中年鲍勃和他的妻子(也是著名的超人特工)已经拥有了平民身份，还搬到郊区和他们的三个孩子过起了平淡的普通生活。现在，鲍勃是一名保险公司理赔员，每天朝九晚五闲极无聊，优裕的生活更使他大腹便便。鲍勃多么渴望重温以前那种出生入死的超人生活啊。机会终于来了，这一天，鲍勃偶然得知敌人将要毁灭人类的计划，他认为自己重出江湖的时候到了，他的超人才能终于又派上了用场，可是昔日的英雄已经变成了“狗熊”：头发秃了，肚子大了，裤子紧了，皮带怎么也扣不上了…… "  />
+		</attributes>		
+	</item>
+</items>

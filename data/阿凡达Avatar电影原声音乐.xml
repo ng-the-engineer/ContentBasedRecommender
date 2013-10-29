@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<items>
+	<item servicetype="music" name="阿凡达Avatar(电影原声音乐)">
+		<attributes>
+			<attribute name="name" value="阿凡达;Avatar;"  />
+			<attribute name="genre" value="电影原声"  />
+			<attribute name="producer" value="Atlantic"  />
+			<attribute name="singer" value="Leona Lewis"  />
+			<attribute name="region" value="英国;美国"  />
+			<attribute name="releasedate" value="2009年12月15日"  />
+			<attribute name="language" value="英语"  />			
+			<attribute name="description" value="詹姆斯.卡梅隆的3D立体大片《Avatar阿凡达》日前正式公布了主题曲的演唱人选和电影原声发售细节，影片主题曲将由24岁的新晋英国歌后 Leona Lewis 利昂娜.刘易斯 献唱。这首名为《I See You》的主题歌由两届奥斯卡金牌配乐大师 James Horner 詹姆斯.霍纳 和 Simon Franglen 负责词曲。12年前，正是他们二人为卡梅隆的《泰坦尼克号》创作出了传唱全球的主题歌《My Heart Will Go On 我心永"  />
+			<attribute name="songs" value="I see you"  />
+		</attributes>		
+	</item>
+</items>
